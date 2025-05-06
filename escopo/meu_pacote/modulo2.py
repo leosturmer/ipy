@@ -5,3 +5,4 @@ def diz_oi_para(nome):
 
 def soma2(a, b):
         return a + b
+

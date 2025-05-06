@@ -6,3 +6,4 @@ valor1 = 5.6
 valor2 = 12.2
 
 print(valor1, valor1)
+

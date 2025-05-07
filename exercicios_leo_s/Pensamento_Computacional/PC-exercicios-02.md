@@ -3,7 +3,8 @@
 ## Exercício 1: Sequência de Palavras
 Complete a sequência lógica de palavras abaixo:
 ```
-Casa, Casaco, Caderno, Cadeira, ?
+Casa, Casaco, Caderno, Ca
+deira, ?
 ```
 Qual é a próxima palavra? Explique seu raciocínio.
 

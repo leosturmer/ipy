@@ -8,3 +8,5 @@ media   = (valor1 + valor2 + valor3) / 3
 
 print(media)
 
+## 23.3333333333
+

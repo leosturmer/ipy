@@ -9,3 +9,11 @@ print("- " + item1)
 print("- " + item2)
 print("- " + item3)
 print("- " + item4)
+
+
+### Lista de compras pra hoje
+### -------------------------
+### - Maçã
+### - Pera
+### - Uva
+### - Banana
